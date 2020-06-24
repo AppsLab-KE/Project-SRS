@@ -1,4 +1,4 @@
-### Sample Project SRS. Adapted from [Apps:Lab](https://appslab.co.ke/)
+### Sample Project SRS Adapted from [Apps:Lab](https://appslab.co.ke/)
 
 ## Company Overview
 
