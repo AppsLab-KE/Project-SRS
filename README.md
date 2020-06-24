@@ -7,8 +7,8 @@ In here you give a brief about the company working on the Software.
 ## Travel Management System
 This is a travel management system to manage all your company expense on travels and accommodation.
 
-### Problem statement
-In this section you write the client problem statement as per the client
+#### Problem statement
+In this section you write the client problem statement as per the client. It should be brief and straight to the point.
 
 ### Key Features
 1. Login and users accounts – each user using the system has a login credential to access system functionalities.
