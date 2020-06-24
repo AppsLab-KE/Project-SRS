@@ -80,6 +80,7 @@ Due to the nature of your business we propose you have: - More details to go her
 Your backend/admin panel details goes here
 
 The admin/dashboard/backend application will be mostly used by the company management staffs.
+
 It will used to manage, monitor, update and control the whole system. 
 Super admin will be able to add staff and assign them role and permission and set company profile. 
 Respective staff will be able to perform their respective task(s) per role(s) /permission(s) as per their job description. 
