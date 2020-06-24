@@ -62,8 +62,8 @@ This will be the core of the project SRS. It should explicit, understandable by 
 - This module allow employee/user to view his profile and his her travel and activities
 - Etc
 ##### Currency 
-- For managing different currencies for example when an employee is flying to the US, his / her travel currency will be dollar.
-- Etc
+- [ ] For managing different currencies for example when an employee is flying to the US, his / her travel currency will be dollar.
+- [ ] Etc
 ##### Reports 
 - Generate travel reports from the system
 - Etc
