@@ -2,12 +2,15 @@
 
 ## Company Overview
 
-In here you give a brief about the company wotking on the Software.
+In here you give a brief about the company working on the Software.
 
 ## Travel Management System
 This is a travel management system to manage all your company expense on travels and accommodation.
 
-## Key Features
+### Problem statement
+In this section you write the client problem statement as per the client
+
+### Key Features
 1. Login and users accounts – each user using the system has a login credential to access system functionalities.
 2. Roles and Permissions – the system has permissions and roles for users. Users are assigned different role and permission to perform different action in the system - for example approvals and the roles also give access to different sections in the system
 3. Department and HOD – company department and there head of departments module.
