@@ -46,7 +46,7 @@ This will be the core of the project SRS. It should explicit, understandable by 
 - Etc
 ##### Job group 
 - Module for managing different job group within the company
-- _Etc_
+- Etc
  ##### Location and maps 
  - This module manages travel locations and destinations on the map.
  - Etc
@@ -78,6 +78,7 @@ This will be the core of the project SRS. It should explicit, understandable by 
 Due to the nature of your business we propose you have: - More details to go here
 #### Backend/Dashboard application and/or admin system management. 
 Your backend/admin panel details goes here
+
 The admin/dashboard/backend application will be mostly used by the company management staffs.
 It will used to manage, monitor, update and control the whole system. 
 Super admin will be able to add staff and assign them role and permission and set company profile. 
