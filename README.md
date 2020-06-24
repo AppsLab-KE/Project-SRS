@@ -1,10 +1,10 @@
-# Sample Project SRS. Adapted from [Apps:Lab](https://appslab.co.ke/)
+### Sample Project SRS. Adapted from [Apps:Lab](https://appslab.co.ke/)
 
-# Company Overview
+## Company Overview
 
 In here you give a brief about the company wotking on the Software.
 
-# Travel Management System
+## Travel Management System
 This is a travel management system to manage all your company expense on travels and accommodation.
 
 ## Key Features
