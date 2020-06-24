@@ -77,16 +77,14 @@ This will be the core of the project SRS. It should explicit, understandable by 
 ### System solution
 Due to the nature of your business we propose you have: - More details to go here
 #### Backend/Dashboard application and/or admin system management. 
-Your backend/admin panel details goes here
-
-The admin/dashboard/backend application will be mostly used by the company management staffs.
-
-It will used to manage, monitor, update and control the whole system. 
-Super admin will be able to add staff and assign them role and permission and set company profile. 
-Respective staff will be able to perform their respective task(s) per role(s) /permission(s) as per their job description. 
-Staff actions and pages to view will be filtered by roles and permissions set. 
+Your backend/admin panel details goes here  
+The admin/dashboard/backend application will be mostly used by the company management staffs.  
+It will used to manage, monitor, update and control the whole system.   
+Super admin will be able to add staff and assign them role and permission and set company profile.   
+Respective staff will be able to perform their respective task(s) per role(s) /permission(s) as per their job description.   
+Staff actions and pages to view will be filtered by roles and permissions set.   
 #### Landing page for guest customers. 
-Write website/landing page details here
+Write website/landing page details here  
 The landing web application will allow guest and customer view the service offered by the travel company.
 The landing page will act as the company website with all the services, company contact, company profile.
 #### Mobile Application
