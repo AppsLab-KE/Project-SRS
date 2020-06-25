@@ -1,4 +1,12 @@
-### Sample Project SRS Adapted from [Apps:Lab](https://appslab.co.ke/)
+# Sample Project SRS Adapted from
+<p align="center"><img src="https://appslab.co.ke/assets/img/logo.png" width="150"> <br>
+<a target="_blank" href=https://appslab.co.ke/>Apps:Lab KE</a>
+</p>
+
+## Table of contents
+ - [Company Overview](#company-overview)
+ - [Travel Management System](#travel-management-system)
+ - [Licence](#licence)
 
 ## Company Overview
 
@@ -165,6 +173,10 @@ In case of any requirement update we will update the document and inform you.
 ### Contacts
 You contact detail goes here  
 
+## Licence
 
+Phx Izitoast is released under [MIT License](https://github.com/appcues/exsentry/blob/master/LICENSE.txt)
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)
