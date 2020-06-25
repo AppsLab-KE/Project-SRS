@@ -1,5 +1,5 @@
 # Sample Project SRS Adapted from
-<p align="center"><img src="https://appslab.co.ke/assets/img/logo.png" width="150"> <br>
+<p align="center"><img src="https://appslab.co.ke/assets/img/logo.png" width="300"> <br>
 <a target="_blank" href=https://appslab.co.ke/>Apps:Lab KE</a>
 </p>
 
