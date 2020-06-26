@@ -8,7 +8,7 @@
 ## Table of contents
  - [Company Overview](#company-overview)
  - [Travel Management System](#travel-management-system)
- - [Licence](#licence)
+ - [License](#license)
 
 ## Company Overview
 
@@ -162,7 +162,7 @@ And for mobile app;
 And for database;  
 - MySQL  
 
-### Non- Technology Requirements
+### Non-Technology Requirements
 List you non-technology requirements here  
 The web app will require up to date modern browser installed  (chrome is highly recommended) on tablet, laptop or computer.Devices preferred will be laptops, desktop computers or tablet for the staff. But the web application will be adaptive and responsive – which mean it will be able to work perfectly even on a phone.  
 The application will require data or Wi-Fi connection to be accessible over the internet  
@@ -177,9 +177,7 @@ You contact detail goes here
 
 <i> =============== SRS End ============== </i>
 
-# Licence
-
-Phx Izitoast is released under [MIT License](https://github.com/appcues/exsentry/blob/master/LICENSE.txt)
+# License
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
 
